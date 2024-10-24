@@ -1,0 +1,6 @@
+{
+    "serverPort": 5000,
+    "dbUrl": "mongodb+srv://nktssfrn:1234@cloud.wwlkp.mongodb.net/?retryWrites=true&w=majority&appName=cloud",
+
+    "secretKey": "asdfasdfasdfalsjdhfaisu9223"
+}
